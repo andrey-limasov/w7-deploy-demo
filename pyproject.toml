@@ -6,6 +6,7 @@ dependencies = [
     "fastapi>=0.162.4",
     "psycopg[binary]>=3.3.8",
     "pydantic-settings>=2.16.2",
+    "structlog==26.1.0",
     "uvicorn[standard]>=0.54.0",
 ]
 
